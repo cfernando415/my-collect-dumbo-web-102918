@@ -9,5 +9,5 @@ def my_collect(arr)
  # else
  #   "No block was given"
  # end
-  arr
+  result
 end
