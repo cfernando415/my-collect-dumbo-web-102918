@@ -11,7 +11,3 @@ def my_collect(arr)
   end
   arr
 end
-
-my_collect(["ruby", "javascript", "python", "objective-c"]) do |lang|
-  lang.upcase
-end
